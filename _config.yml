@@ -66,5 +66,5 @@ plugins: #插件，例如生成 RSS 和站点地图的
 # Deployment #部署，将 lmintlcx 改成用户名
 deploy:
   type: git
-  repo: 刚刚github创库地址.git
+  repo: https://github.com/zkil/zkil.github.io.git
   branch: master
